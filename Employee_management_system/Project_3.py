@@ -4,7 +4,7 @@
 
 ## Date last changed: 29 October 2021
 
-## Fixed-rate mortgage calculator and comparison with command line menu and error handling
+## Employee Management System with GUI
 from tkinter import *
 import Employee
 import pickle
