@@ -1,3 +1,10 @@
+## Author: Aiden Rogers, u3204426
+
+## Date created: 20 October 2021
+
+## Date last changed: 29 October 2021
+
+## Fixed-rate mortgage calculator and comparison with command line menu and error handling
 from tkinter import *
 import Employee
 import pickle
